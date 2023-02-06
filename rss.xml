@@ -191,7 +191,7 @@
       <model>
         <mUnique>synology_geminilake_920+</mUnique>
         <mLink>https://global.download.synology.com/download/DSM/release/7.0.1/42218/DSM_DS920%2B_42218.pat</mLink>
-        <mCheckSum>7764ad4fca0a11ae0ebd7ccd4a49e1aa</mCheckSum>
+        <mCheckSum>55a7e4ccbf6fcba9238a11976a4a7381</mCheckSum>
       </model>
       <model>
         <mUnique>synology_geminilake_1520+</mUnique>
